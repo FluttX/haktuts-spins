@@ -6,6 +6,9 @@ Spin Master Daily, Free Spins, Coin Rewards app is designed for users can get fr
 
 ### Download & Preview: [Haktuts Spins link for CM (Play Store Link)](https://play.google.com/store/apps/details?id=com.haktuts.spins&hl=en)
 
+
+### Order Now: [Haktuts Spins (Full Source Code)](https://alaminkarno.gumroad.com/l/haktut-spins)
+
 **Features and Tech:**
 - Theme (Dark & Light)
 - Firebase Database
